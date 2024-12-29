@@ -1,13 +1,5 @@
 import pygame
 
-# classe gérant l'animation d'une vidéo et son affichage
-class Video:
-    
-    def __init__(self, path: str, fps: int, screen: pygame.Surface) -> None:
-        self.path = path
-        self.fps = fps
-        self.screen = screen
-        
 
 # classe gérant l'animation des sprites
 class AnimateSprite(pygame.sprite.Sprite):
