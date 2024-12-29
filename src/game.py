@@ -279,7 +279,7 @@ class Game:
                     self.quit_game()
 
             # boucle (stoppant le jeu) qui gère les menus
-            while self.menu:
+            while self.menu: # je vais enlever ça après
 
                 # afficher le nombre de fps dans le titre de la fenêtre (et l'arrondir à 1 décimale)
                 pygame.display.set_caption(f"Pygamon - FPS: {self.clock.get_fps():.1f}")
