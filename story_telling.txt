@@ -1,0 +1,13 @@
+Nom: 
+Epoque: Médiévale
+Plot Twist: Voyage dans le temps (passé et futur)
+
+Même village avec la version passée, présente et future. 
+
+Découverte accidentelle (ou pas) du portail abandonné, il passe dedans 
+
+Objet plutôt magique que se fait téléporter le joueur dans le futur ou le passé mais à la même 
+position où il est actuellement (même coordonnées et map) 
+-> f"maps/{epoch}/{map_zone}_map" concrètement f"maps/past/north_west_map"
+
+Au début le joueur doit utiliser le portail puis après il peut aussi utiliser l'objet magique 

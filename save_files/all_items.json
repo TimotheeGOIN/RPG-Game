@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 100,
+        "Name": "\u00c9p\u00e9e",
+        "Link": "assets/items/sword.bmp",
+        "Stackable": false,
+        "Description": "\u00c9p\u00e9e..."
+    },
+    {
+        "ID": 101,
+        "Name": "Potion",
+        "Link": "assets/items/potion.bmp",
+        "Stackable": true,
+        "Description": "Breuvage r\u00e9g\u00e9n\u00e9rant."
+    },
+    {
+        "ID": 102,
+        "Name": "Clef",
+        "Link": "assets/items/key.bmp",
+        "Stackable": false,
+        "Description": "Ouvre s\u00fbrement quelque chose..."
+    },
+    {
+        "ID": 103,
+        "Name": "Papier",
+        "Link": "assets/items/paper.bmp",
+        "Stackable": true,
+        "Description": null
+    },
+    {
+        "ID": 104,
+        "Link": "assets/items/bottle.bmp",
+        "Name": "Bouteille",
+        "Stackable": true,
+        "Description": "\u00e9                                        efefef"
+    },
+    {
+        "ID": 105,
+        "Name": "Torche",
+        "Link": "assets/items/torch.png",
+        "Stackable": true,
+        "Description": "Lumineuse"
+    },
+    {
+        "ID": 106,
+        "Name": "Pierre dor\u00e9e",
+        "Link": "assets/items/gold_stone.png",
+        "Stackable": true,
+        "Description": "Kayou"
+    },
+    {
+        "ID": 107,
+        "Name": "caca",
+        "Link": "assets/items/key.bmp",
+        "Stackable": true,
+        "Description": "C'est du caca "
+    }
+]
